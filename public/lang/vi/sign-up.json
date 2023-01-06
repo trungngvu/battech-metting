@@ -1,0 +1,30 @@
+{
+  "title": "Đăng Kí",
+  "heading": "Đăng kí tài khoản",
+  "name": "Họ tên*",
+  "namePlaceholder": "Bùi Văn A",
+  "gender": {
+    "gender": "Giới tính",
+    "male": "Nam",
+    "female": "Nữ",
+    "other": "Khác"
+  },
+  "password": "Mật khẩu*",
+  "passwordConfirmation": "Xác nhận mật khẩu*",
+  "haveAccountAlready": "Đã có tài khoản",
+  "submit": "Đăng ký",
+  "signupwith": "Đăng kí với",
+  "schema": {
+    "name": {
+      "require": "Vui lòng nhập họ tên!",
+      "format": "Họ và tên không hợp lệ!"
+    },
+    "gender": "Vui lòng chọn giới tính!",
+    "email": {
+      "require": "Vui lòng nhập Email!",
+      "format": "Email không đúng định dạng!"
+    },
+    "password": "Vui lòng nhập mật khẩu!",
+    "passwordConfirmation": "Mật khẩu không trùng khớp!"
+  }
+}

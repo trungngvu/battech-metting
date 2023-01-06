@@ -1,0 +1,23 @@
+{
+  "about": {
+    "title": "Về BATTECH",
+    "info": "Công ty cổ phần quốc tế BATTECH",
+    "address": "Địa chỉ: Tầng 2, Tòa HH02, Eco Lakeview, 32 Đại Từ, P. Đại Kim, Q. Hoàng Mai, Hà Nội",
+    "phone": "Điện thoại: 024 85 896 999",
+    "email": "E-Mail: info@batgroup.vn"
+  },
+  "services": {
+    "title": "Sản phẩm và dịch vụ",
+    "website": "Thiết kế Website",
+    "app": "Thiết kế App",
+    "metaverse": "Thực tế ảo Metaverse",
+    "software": "Phát triển phần mềm & bảo trì",
+    "nft": "Game NFT"
+  },
+  "support": {
+    "title": "Hỗ Trợ",
+    "contact": "Liên hệ",
+    "term": "Điều khoản sử dụng",
+    "security": "Bảo mật"
+  }
+}

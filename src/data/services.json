@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Phòng họp VR",
+    "description": "Bây giờ bạn có thể chia sẻ không gian ảo với đồng nghiệp và cộng tác. Một cách nhập vai và tự nhiên hơn nhiều để làm việc hoặc gặp gỡ với những người có thể ở bất kỳ nơi nào khác trên thế giới. Nó không chỉ là một ứng dụng trò chuyện cuộc gọi hội nghị. Khi bạn đã trải nghiệm cảm giác hiện diện mà một gói họp VR tốt cung cấp, thật khó để quay lại các khuôn mặt 2D trên màn hình.",
+    "image": "/assets/images/service-1.png",
+    "href": "#"
+  },
+  {
+    "name": "Bất động sản căn hộ VR/AR",
+    "description": "Bạn được mục sở thị không gian sống, nội thất, cảnh quan xung quanh ngôi nhà một cách chân thực nhất. Đặc biệt hơn bạn còn có thể tương tác trực tiếp với đồ nội thất trong không gian ba chiều để đánh giá chi tiết ngôi nhà từ xa mà không cần phải tới tận nơi để xem xét.",
+    "image": "/assets/images/service-2.png",
+    "href": "#"
+  }
+]

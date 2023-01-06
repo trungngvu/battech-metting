@@ -1,0 +1,40 @@
+{
+  "title": "Công nghệ phòng họp thực tế ảo",
+  "introTitle": "Công nghệ phòng họp thực tế ảo",
+  "introContent": "Phòng họp ảo mang tới một trải nghiệm mới tái hiện không gian cho phép người dùng nhập vai, tương tác, gắn kết, phù hợp với cộng đồng các doanh nghiệp, lớp học...",
+  "signUpNow": "Đăng ký ngay",
+  "previewTitle1": "Trải nghiệm tương tác mọi lúc mọi nơi",
+  "previewContent1": "Người dùng có thể trải nghiệm không gian thực tế ảo thông qua kính VR. Góc nhìn của người dùng sẽ trở nên sống động hơn với không gian ba chiều.",
+  "previewTitle2": "Rút ngắn khoảng cách",
+  "previewContent2": "Tương tác và gặp gỡ với tất cả mọi người trong thế giới thực tế ảo đa chiều, phòng họp thực tế ảo của BATTech dễ dàng kết nối, chân thực sống động, hiệu ứng hình ảnh vượt trội, giúp bạn thêm trải nghiệm mới mẻ và thú vị trong những giờ họp căng thẳng.",
+  "trial": {
+    "schema": {
+      "firstName": "Họ không được để trống",
+      "lastName": "Tên không được để trống",
+      "email": { "required": "Email không được để trống", "format": "Email chưa đúng định dạng" },
+      "phone": "Số điện thoại phải là số",
+      "companyName": "Công ty không được để trống",
+      "purpose": "Mục này không được để trống",
+      "agreeRules": "Bạn phải đồng ý với Điều khoản và dịch vụ"
+    },
+    "rules": {
+      "1": "Tôi muốn nhận email cập nhật sản phẩm",
+      "2": "Tôi muốn nhận tin tức từ BATTECH",
+      "3": "Tôi đã đọc và đồng ý với Điều khoản dịch vụ"
+    },
+    "title": "Đăng ký để dùng thử Pro hoặc Enterprise trong 14 ngày.",
+    "content": "Với BATTECH Pro và Enterprise, bạn sẽ có quyền truy cập vào tất cả các tính năng của chúng tôi được mô tả ở đây. Ngoài ra, bạn có thể tải xuống BATTECH miễn phí tại đây hoặc từ cửa hàng Oculus Quest (không cần đăng ký).",
+    "form": {
+      "firstName": "Họ",
+      "lastName": "Tên",
+      "phone": "Số điện thoại",
+      "companySize": "Quy mô công ty",
+      "company": "Công ty",
+      "industry": "Công nghiệp",
+      "job": "Nghề nghiệp",
+      "country": "Quốc gia",
+      "purpose": "Bạn dùng công nghệ VR để?",
+      "submit": "Bắt đầu"
+    }
+  }
+}

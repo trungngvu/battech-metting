@@ -1,0 +1,35 @@
+{
+  "title": "Contact",
+  "description": "Contact Information",
+  "contactUs": "Contact us",
+  "paragraph": "Call us or drop by anytime, we'll try to answer any questions within 24 hours on business days. We'll be happy to answer your questions.",
+  "addr": "Address:",
+  "address": "Floor 2, Building HH02, Eco Lakeview, 32 Dai Tu, Dai Kim Ward, Hoang Mai District, Hanoi City",
+  "phone": "Phone number:",
+  "message": {
+    "schema": {
+      "name": {
+        "required": "Name cannot be empty",
+        "format": "Name does not match"
+      },
+      "email": {
+        "required": "Email cannot be empty",
+        "format": "Invalid email format"
+      },
+      "phone": "Invalid phone number",
+      "message": "Please compose more message content"
+    },
+    "enqueue": {
+      "success": "Successful message sent.",
+      "fail": "An error occurred"
+    },
+    "heading": "Ready to start",
+    "remind": "Your email address will not be published. Required fields are marked with an *",
+    "form": {
+      "name": "Name",
+      "phone": "Phone number",
+      "message": "Message content",
+      "submit": "Send message"
+    }
+  }
+}

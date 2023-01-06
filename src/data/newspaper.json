@@ -1,0 +1,27 @@
+[
+  {
+    "name": "24h",
+    "src": "/assets/images/24h.png",
+    "href": "#"
+  },
+  {
+    "name": "vnexpress",
+    "src": "/assets/images/vnexpress.png",
+    "href": "#"
+  },
+  {
+    "name": "vtc",
+    "src": "/assets/images/vtc.png",
+    "href": "#"
+  },
+  {
+    "name": "dantri",
+    "src": "/assets/images/dantri.png",
+    "href": "#"
+  },
+  {
+    "name": "hanoimoi",
+    "src": "/assets/images/hanoimoi.png",
+    "href": "#"
+  }
+]

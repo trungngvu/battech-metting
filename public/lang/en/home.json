@@ -1,0 +1,40 @@
+{
+  "title": "VR meeting technology",
+  "introTitle": "VR meeting technology",
+  "introContent": "The virtual meeting room brings a new experience that recreates the space that allows users to role-play, interact, and engage, suitable for the community of businesses, classrooms...",
+  "signUpNow": "Sign up now",
+  "previewTitle1": "Interactive experience anytime, anywhere",
+  "previewContent1": "Users can experience virtual reality through VR glasses. The user's perspective will become more vivid with three-dimensional space.",
+  "previewTitle2": "Shorten the distance",
+  "previewContent2": "Interact and meet with everyone in the multi-dimensional virtual reality world, BATTech's virtual reality meeting room is easy to connect, realistic, and outstanding visual effects, giving you a new experience. and enjoyable during stressful meeting hours.",
+  "trial": {
+    "schema": {
+      "firstName": "First name must not be empty",
+      "lastName": "Last name must not be empty",
+      "email": { "required": "Email must not be empty", "format": "Email is not properly formated" },
+      "phone": "Phone must be a number",
+      "companyName": "Company name must not be empty",
+      "purpose": "This field must not be empty",
+      "agreeRules": "You have to agree to Terms and Conditions"
+    },
+    "rules": {
+      "1": "I want to receive product update emails",
+      "2": "I want to receive news from BATTECH",
+      "3": "I have read and agree to the Terms of Service"
+    },
+    "title": "Sign up to try Pro or Enterprise for 14 days.",
+    "content": "With BATTECH Pro and Enterprise, you will have access to all of our features described here. Alternatively, you can download BATTECH for free here or from the Oculus Quest store (no registration required).",
+    "form": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "phone": "Phone number",
+      "companySize": "Company size",
+      "company": "Company",
+      "industry": "Industry",
+      "job": "Job",
+      "country": "Country",
+      "purpose": "What do you use VR technology for?",
+      "submit": "Start"
+    }
+  }
+}

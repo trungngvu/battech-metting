@@ -1,0 +1,1135 @@
+[
+  {
+    "title": "Co-Founders: CEO & CSO",
+    "member": [
+      {
+        "name": "Mr. Hệ",
+        "position": "Giám đốc điều hành BATTECH",
+        "description": "With 20 years of global experience, Le Van He spearheaded growth for companies such as Batgroup...",
+        "image": "/assets/images/team-1.png",
+        "slug": "mr-he",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      },
+      {
+        "name": "Dusan",
+        "position": "Chief Technology Officer",
+        "description": "Glen’s leadership career spans more than 15 years and industries such as blockchain, e-commerce, and retail.",
+        "image": "/assets/images/team-2.png",
+        "slug": "dusan",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Advisors & Investors",
+    "member": [
+      {
+        "name": "Mr. He",
+        "position": "Chief Executive Officer",
+        "description": "With 20 years of global experience, Le Van He spearheaded growth for companies such as Batgroup...",
+        "image": "/assets/images/team-3.png",
+        "slug": "mr-he",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      },
+      {
+        "name": "Dusan",
+        "position": "Chief Technology Officer",
+        "description": "Glen’s leadership career spans more than 15 years and industries such as blockchain, e-commerce, and retail.",
+        "image": "/assets/images/team-4.png",
+        "slug": "dusan",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      },
+      {
+        "name": "Mr. He",
+        "position": "Chief Executive Officer",
+        "description": "With 20 years of global experience, Le Van He spearheaded growth for companies such as Batgroup...",
+        "image": "/assets/images/team-5.png",
+        "slug": "mr-he",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      },
+      {
+        "name": "Dusan",
+        "position": "Chief Technology Officer",
+        "description": "Glen’s leadership career spans more than 15 years and industries such as blockchain, e-commerce, and retail.",
+        "image": "/assets/images/team-6.png",
+        "slug": "dusan",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Management",
+    "member": [
+      {
+        "name": "Mr. He",
+        "position": "Chief Executive Officer",
+        "description": "With 20 years of global experience, Le Van He spearheaded growth for companies such as Batgroup...",
+        "image": "/assets/images/team-7.png",
+        "slug": "mr-he",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      },
+      {
+        "name": "Dusan",
+        "position": "Chief Technology Officer",
+        "description": "Glen’s leadership career spans more than 15 years and industries such as blockchain, e-commerce, and retail.",
+        "image": "/assets/images/team-8.png",
+        "slug": "dusan",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      },
+      {
+        "name": "Mr. He",
+        "position": "Chief Executive Officer",
+        "description": "With 20 years of global experience, Le Van He spearheaded growth for companies such as Batgroup...",
+        "image": "/assets/images/team-9.png",
+        "slug": "mr-he",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      },
+      {
+        "name": "Dusan",
+        "position": "Chief Technology Officer",
+        "description": "Glen’s leadership career spans more than 15 years and industries such as blockchain, e-commerce, and retail.",
+        "image": "/assets/images/team-10.png",
+        "slug": "dusan",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      },
+      {
+        "name": "Mr. He",
+        "position": "Chief Executive Officer",
+        "description": "With 20 years of global experience, Le Van He spearheaded growth for companies such as Batgroup...",
+        "image": "/assets/images/team-1.png",
+        "slug": "mr-he",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      },
+      {
+        "name": "Dusan",
+        "position": "Chief Technology Officer",
+        "description": "Glen’s leadership career spans more than 15 years and industries such as blockchain, e-commerce, and retail.",
+        "image": "/assets/images/team-2.png",
+        "slug": "dusan",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      },
+      {
+        "name": "Mr. He",
+        "position": "Chief Executive Officer",
+        "description": "With 20 years of global experience, Le Van He spearheaded growth for companies such as Batgroup...",
+        "image": "/assets/images/team-3.png",
+        "slug": "mr-he",
+        "about": "Là Giám đốc điều hành của BATTECH, He chịu trách nhiệm về ý tưởng, lập kế hoạch và phân tích, quan hệ nhà đầu tư của công ty. Trước khi gia nhập BATTECH, Mark đã có hơn 12 năm đảm nhiệm nhiều vai trò khác nhau tại FPT trong lĩnh vực Công nghệ, truyền thông và viễn thông. Gần đây nhất, He làm Lãnh đạo trong lĩnh vực công nghệ của công ty này tại Việt Nam, dẫn dắt một nhóm tư vấn viên giàu kinh nghiệm làm việc với khách hàng trong các ngành công nghệ. Ông cũng từng là Lãnh đạo về Công nghiệp phần mềm toàn cầu của công ty, bao gồm cả đối tác tham gia toàn cầu của một số khách hàng phần mềm và dịch vụ đa quốc gia lớn nhất của FPT. He có kinh nghiệm làm cố vấn chiến lược, thường xuyên tham gia phát biểu tại các hội nghị của ngành trên toàn thế giới và hội thảo hằng năm dành cho giám đốc công nghệ. Ông cũng giảng dạy tại các trường cao đẳng và đại học về chủ đề lãnh đạo và thường xuyên viết blog về chủ đề ngành và lãnh đạo.",
+        "experience": [
+          {
+            "name": "BATTECH",
+            "position": "Giám đốc điều hành BATTECH",
+            "from": "Tháng 1/2020 - Nay",
+            "location": "Việt Nam",
+            "description": "Chúng tôi đang tạo ra  metaverse hoạt động như một nền tảng kết nối các dịch vụ trong một trung tâm. Các doanh nghiệp và người sáng tạo có thể khai thác các công cụ dành cho tài chính, trò chơi, VR, NFT, thương mại điện tử và bán lẻ và tiếp thị cho đối tượng người dùng đã sẵn sàng.",
+            "logo": "/assets/icons/logo-text-2.svg"
+          },
+          {
+            "name": "BATGroup",
+            "position": "Giám đốc BATGROUP",
+            "from": "Tháng 12/2017 - Tháng 1/2020",
+            "location": "Việt Nam",
+            "description": "",
+            "logo": "/assets/icons/bat-group.svg"
+          }
+        ],
+        "education": [
+          {
+            "name": "Đại học Quốc Gia Hà Nội",
+            "specialization": "Khoa quản trị kinh doanh",
+            "logo": "/assets/icons/vnu.svg"
+          },
+          {
+            "name": "Đại học Bách Khoa Hà Nội",
+            "specialization": "Khoa toán tin",
+            "logo": "/assets/icons/hust.svg"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Telecommunications",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Team Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Management",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          },
+          {
+            "name": "Customer Relationship Management (CRM)",
+            "verified": "Endorsed by Deborah Aspoas and 1 other who is highly skilled at this",
+            "peoples": "Endorsed by 3 colleagues at Ooredoo Myanmar 44 endorsements"
+          }
+        ],
+        "activities": [
+          {
+            "image": "/assets/images/activity-1.png",
+            "title": "Join me on the 12th of April as I discuss blockchain gaming in the metaverse on behalf",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-2.png",
+            "title": "Looking forward to representing BATTECH at the yellow.ai #metaverse event. Will be a great medium for bringing thought leaders in the metaverse space together",
+            "tags": ["digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-3.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivednot only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset",
+            "tags": ["battech", "batgroup", "digitalinclusion", "blockchain"],
+            "date": "Jul 12, 2021"
+          },
+          {
+            "image": "/assets/images/activity-4.png",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "tags": ["battech", "batgroup", "blockchain"],
+            "date": "Jul 12, 2021"
+          }
+        ]
+      }
+    ]
+  }
+]

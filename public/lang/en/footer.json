@@ -1,0 +1,23 @@
+{
+  "about": {
+    "title": "Contact Information",
+    "info": "BATTECH International Joint Stock Company",
+    "address": "Address: 2nd Floor, Building HH02, Eco Lakeview, 32 Dai Tu, Dai Kim Ward, Hoang Mai District, Hanoi",
+    "phone": "Phone: 024 85 896 999",
+    "email": "E-Mail: info@batgroup.vn"
+  },
+  "services": {
+    "title": "Products & Service",
+    "website": "Website design",
+    "app": "App Design",
+    "metaverse": "Virtual Reality Metaverse",
+    "software": "Software development & maintenance",
+    "nft": "Game NFT"
+  },
+  "support": {
+    "title": "Support",
+    "contact": "Contact",
+    "term": "Term of use",
+    "security": "Security"
+  }
+}

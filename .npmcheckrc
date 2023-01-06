@@ -1,0 +1,14 @@
+{
+  "depcheck": {
+    "ignoreMatches": [
+      "@commitlint/cli",
+      "@commitlint/config-conventional",
+      "@trivago/prettier-plugin-sort-imports",
+      "autoprefixer",
+      "postcss",
+      "tailwindcss",
+      "eslint-config-react-app",
+      "app"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "noName": "Tên không được để trống",
+  "invalidName": "Tên không phù hợp",
+  "noEmail": "Email không được để trống",
+  "invalidEmail": "Email chưa đúng định dạng",
+  "invalidPhone": "Số điện thoại không đúng",
+  "notEnoughMess": "Vui lòng soạn thêm nội dung tin nhắn"
+}

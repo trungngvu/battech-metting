@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/ava-1.png",
+    "name": "Trần Văn Sơn",
+    "job": "Chuyên viên phát triển dự án bất động sản",
+    "review": "Trong thời điểm dịch bệnh Covid-19 đang trở nên rắc rối hơn, việc đi xem trực tiếp một bất động sản là vấn đề khó khăn. Thật may nhờ có ứng dụng công nghệ thực tế ảo của BATTECH giúp tôi giải quyết những vấn đề này, cho phép khách hàng tiềm năng ghé thăm các bất động sản mà không cần đến trực tiếp. Hơn thế công nghệ này"
+  },
+  {
+    "id": 1,
+    "image": "/assets/images/ava-2.png",
+    "name": "Timmy Ghiurau",
+    "job": "XR simulations and experience lead at Volvo Cars",
+    "review": "The most relevant VR collaboration platform relevant in our automotive use cases, in the way we design, build, experience and sell cars but also enabling remote collaboration seamlessly and intuitively. It is environment friendly – avoiding air travel while also boosting productivity."
+  }
+]

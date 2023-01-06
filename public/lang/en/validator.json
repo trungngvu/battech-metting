@@ -1,0 +1,8 @@
+{
+  "noName": "Name cannot be blank",
+  "invalidName": "Inappropriate name",
+  "noEmail": "Email cannot be blank",
+  "invalidEmail": "Email is not in the correct format",
+  "invalidPhone": "Incorrect phone number",
+  "notEnoughMess": "Please compose more message content"
+}

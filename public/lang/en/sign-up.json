@@ -1,0 +1,30 @@
+{
+  "title": "Register",
+  "heading": "Register for an account",
+  "name": "Full name*",
+  "namePlaceholder": "John Smith",
+  "gender": {
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other"
+  },
+  "password": "Password*",
+  "passwordConfirmation": "Password Confirmation*",
+  "haveAccountAlready": "Already had an account",
+  "submit": "Submit",
+  "signupwith": "Sign up with",
+  "schema": {
+    "name": {
+      "require": "Please enter your name!",
+      "format": "Invalid first name!"
+    },
+    "gender": "Please select a gender!",
+    "email": {
+      "require": "Please enter Email!",
+      "format": "Invalid email!"
+    },
+    "password": "Please enter a password!",
+    "passwordConfirmation": "Password does not match!"
+  }
+}

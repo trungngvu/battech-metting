@@ -1,0 +1,16 @@
+{
+  "title": "Login",
+  "heading": "Login to your account",
+  "password": "Password*",
+  "rememberLogin": "Remember Login",
+  "submit": "Login",
+  "signup": "Create a new account",
+  "forgotPassword": "Forgot Password",
+  "schema": {
+    "email": {
+      "required": "Please enter Email!",
+      "format": "Invalid email format!"
+    },
+    "password": "Please enter a password!"
+  }
+}

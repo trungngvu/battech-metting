@@ -1,0 +1,16 @@
+{
+  "title": "Đăng Nhập",
+  "heading": "Đăng nhập tài khoản",
+  "password": "Mật khẩu*",
+  "rememberLogin": "Ghi nhớ đăng nhập",
+  "submit": "Đăng nhập",
+  "signup": "Tạo tài khoản mới",
+  "forgotPassword": "Quên mật khẩu",
+  "schema": {
+    "email": {
+      "required": "Vui lòng nhập Email!",
+      "format": "Email không đúng định dạng!"
+    },
+    "password": "Vui lòng nhập mật khẩu!"
+  }
+}

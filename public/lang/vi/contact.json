@@ -1,0 +1,35 @@
+{
+  "title": "Liên Hệ",
+  "description": "Thông tin liên hệ",
+  "contactUs": "Liên hệ với chúng tôi",
+  "paragraph": " Hãy gọi cho chúng tôi hoặc ghé qua bất cứ lúc nào, chúng tôi sẽ cố gắng giải đáp mọi thắc mắc trong vòng 24 giờ vào các ngày làm việc. Rất hân hạnh được trả lời câu hỏi của bạn.",
+  "addr": "Địa chỉ:",
+  "address": "Tầng 2, Tòa HH02, Eco Lakeview, 32 Đại Từ, P. Đại Kim, Q. Hoàng Mai, TP. Hà Nội",
+  "phone": "Số điện thoại:",
+  "message": {
+    "schema": {
+      "name": {
+        "required": "Tên không được để trống",
+        "format": "Tên không phù hợp"
+      },
+      "email": {
+        "required": "Email không được để trống",
+        "format": "Email chưa đúng định dạng"
+      },
+      "phone": "Số điện thoại không đúng",
+      "message": "Vui lòng soạn thêm nội dung tin nhắn"
+    },
+    "enqueue": {
+      "success": "Gửi tin nhắn thành công.",
+      "fail": "Có lỗi xảy ra"
+    },
+    "heading": "Sẵn sàng để bắt đầu",
+    "remind": "Địa chỉ email của bạn sẽ không được công bố. Các trường bắt buộc được đánh dấu *",
+    "form": {
+      "name": "Tên",
+      "phone": "Số điện thoại",
+      "message": "Nội dung tin nhắn",
+      "submit": "Gửi tin nhắn"
+    }
+  }
+}

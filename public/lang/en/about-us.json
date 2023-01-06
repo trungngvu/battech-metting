@@ -1,0 +1,38 @@
+{
+  "title": "About us",
+  "heading": "About BATTECH",
+  "intro": "BATTECH was established in early 2018, in the context of domestic information technology development needs facing many difficulties and challenges. With aspiration for success and strong will of young leadership team , BATTECH determined to take the investment and development of service technology as the core in the first phase, with many projects on website, app, software and service system to assert itself. Since its establishment, it has increased to more than 300 official employees and nearly 100 seasonal employees in domestic and foreign projects, step by step asserting its stature in the market with a series of large projects and projects. in Vietnam, Japan, Taiwan, Australia, Germany, Italy",
+  "visionTitle": "Vision and Mission",
+  "visionContent1": "With burning desire and passion, BATTECH is on the way to strive to become a leading information technology company in Vietnam.",
+  "visionContent2": "Leading new technology waves, striving to develop world-class products - services - technology solutions, bringing outstanding values ​​to customers, contributing to enhancing Vietnam's position in the digital era, building a powerful country.",
+  "coreValue": "Core Value",
+  "card": {
+    "1": {
+      "title": "Customer-centric",
+      "content": "BATTECH always prioritizes customers and their preferences with services tailored to specific needs and needs, delivering an experience above all expectations. We believe, by relentlessly adding value to our services, we will gain the trust and long-term trust of our partners."
+    },
+    "2": {
+      "title": "Speed",
+      "content": "BATTECH creates a competitive advantage through our quick response and prompt service. We always strive to bring superior products and services to our partners in time. at BATTECH, we believe that Speed ​​is the key to success."
+    },
+    "3": {
+      "title": "Creation",
+      "content": "The creativity at BATTECH is reflected not only in our range of cutting-edge IT products and solutions, but also in our innovative delivery models and implementation methods. I set us apart from any competitor in the market."
+    },
+    "4": {
+      "title": "Commit",
+      "content": "BATTECH is committed to turning customers' ideas and visions into reality through mutual agreements and cooperation. This commitment is also reflected in integrity in all projects and activities. our actions, ensure the best quality of service and keep up with the implementation schedule."
+    }
+  },
+  "hrTitle": "Human Resources",
+  "hrContent1": "BATTECH's staff are people with rich experience in technology. Each member has different knowledge and technology fields, when developing software, they come up with ideas. With the spirit of solidarity, eager to learn along with enthusiasm and responsibility in work, BATTECH team always listens to customers' comments to improve the quality of products.",
+  "hrContent2": "BATTECH personnel are always willing to serve, listen and understand.",
+  "carousel": {
+    "1": "Ideas when looking at reality",
+    "2": "Establish a team of personnel",
+    "3": "Technology Research",
+    "4": "Product Development",
+    "5": "Actual implementation"
+  },
+  "roadmap": "Roadmap"
+}

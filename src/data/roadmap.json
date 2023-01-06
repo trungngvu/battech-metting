@@ -1,0 +1,90 @@
+[
+  {
+    "year": 2018,
+    "detail": [
+      {
+        "month": "",
+        "data": [
+          {
+            "title": "Ý tưởng",
+            "description": "Với việc sử dụng internet vào mạng xã hội và smartphone đang bão hòa, CEO Lê Văn Hệ có ý tưởng đầu tư đổi mới vào công nghệ metaverse."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "detail": [
+      {
+        "month": "",
+        "data": [
+          {
+            "title": "Nghiên cứu công nghệ",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "detail": [
+      {
+        "month": "",
+        "data": [
+          {
+            "title": "Thành lập nhóm - triển khai thực tế",
+            "description": "Trong bối cảnh đại dịch covid-19 suốt hơn 2 năm, việc họp, học online qua các phần mềm google meet, zoom thiếu đi sự tương tác khi chỉ nhìn vào màn hình máy tính với các hình ảnh 2D. Những năm giãn cách xã hội, hạn chế đi lại khiến cho nhu cầu tương tác tăng lên và dịch vụ tương tác như Metaverse sẽ có triển vọng."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "detail": [
+      {
+        "month": "",
+        "data": [
+          {
+            "title": "Phát triển phần mềm",
+            "description": "Sau khi thành lập team, mọi người bắt tay vào lên ý tưởng, chức năng cho phần mềm phòng họp ảo. Hiện đã hoàn thành ver 1 và đang phát triển xây dựng ver 2."
+          }
+        ]
+      },
+      {
+        "month": "Tháng 9/2022",
+        "data": [
+          {
+            "title": "Ra mắt demo ver 1 với các chức năng: chọn phòng họp, trò chuyện, chia sẻ tài liệu, di chuyển",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "month": "Tháng 12/2022",
+        "data": [
+          {
+            "title": "Hoàn thành ver 1 - phát triển ver 2",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "detail": [
+      {
+        "month": "",
+        "data": [
+          {
+            "title": "Tiếp tục phát triển",
+            "description": "Lên ý tưởng, chức năng cho các game 3D như câu cá, golf, đua xe… Ứng dụng công nghệ VR vào bất động sản, tham quan, du lịch."
+          }
+        ]
+      }
+    ]
+  }
+]

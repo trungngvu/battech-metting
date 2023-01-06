@@ -1,0 +1,38 @@
+{
+  "title": "Giới thiệu",
+  "heading": "Giới thiệu về BATTECH",
+  "intro": "BATTECH được thành lập vào đầu năm 2018, trong bối cảnh nhu cầu phát triển công nghệ thông tin trong nước gặp nhiều khó khăn, thách thức. Với khát vọng thành công và ý chí mạnh mẽ đội ngũ lãnh đạo trẻ, BATTECH xác định lấy hoạt động đầu tư phát triển công nghệ dịch vụ làm nòng cốt trong giai đoạn đầu. Với nhiều dự án về website, app, phần mềm hệ thống dịch vụ để khẳng định mình. Với số lượng 10 nhân viên từ lúc thành lập đến nay đã tăng lên con số hơn 300 nhân sự chính thức và gần 100 nhân sự thời vụ tại các dự án trong và ngoài nước. Từng bước khẳng định tầm vóc trên thương trường với hàng loạt công trình, dự án lớn tại Việt Nam, Nhật, Đài Loan, Úc, Đức, Italy",
+  "visionTitle": "Tầm nhìn và sứ mệnh",
+  "visionContent1": "Với khát khao và đam mê cháy bỏng, BATTECH trên con đường phấn đấu trở thành công ty công nghệ thông tin hàng đầu Việt Nam.",
+  "visionContent2": "Dẫn đầu các làn sóng công nghệ mới, nỗ lực phát triển những sản phẩm - dịch vụ - giải pháp công nghệ đẳng cấp thế giới, mang lại những giá trị vượt trội cho khách hàng, góp phần nâng cao vị thế Việt Nam trong kỷ nguyên số, xây dựng đất nước hùng cường.",
+  "coreValue": "Giá trị cốt lõi",
+  "card": {
+    "1": {
+      "title": "Lấy khách hàng làm trung tâm",
+      "content": "BATTECH luôn ưu tiên khách hàng và sở thích của họ với các dịch vụ phù hợp với nhu cầu và nhu cầu cụ thể, mang lại trải nghiệm trên tất cả mong đợi. Chúng tôi tin rằng, bằng cách không ngừng gia tăng giá trị dịch vụ, chúng tôi sẽ nhận được sự tin tưởng và tin tưởng lâu dài của các đối tác."
+    },
+    "2": {
+      "title": "Tốc độ",
+      "content": "BATTECH tạo ra lợi thế cạnh tranh thông qua phản hồi nhanh chóng và cung cấp dịch vụ nhanh chóng của chúng tôi. Chúng tôi luôn nỗ lực mang đến những sản phẩm và dịch vụ vượt trội cho đối tác trong thời gian ngắn nhất có thể. Tại BATTECH, chúng tôi tin rằng Tốc độ là chìa khóa để thành công."
+    },
+    "3": {
+      "title": "Sáng tạo",
+      "content": "Sự sáng tạo tại BATTECH không chỉ được phản ánh trong một loạt các sản phẩm và giải pháp CÔNG NGHỆ THÔNG TIN tiên tiến của chúng tôi mà còn trong các mô hình phân phối và phương pháp triển khai sáng tạo của chúng tôi khiến chúng tôi khác biệt với bất kỳ đối thủ cạnh tranh nào trên thị trường."
+    },
+    "4": {
+      "title": "Cam kết",
+      "content": "BATTECH cam kết biến ý tưởng và tầm nhìn của khách hàng thành hiện thực thông qua các thỏa thuận và hợp tác lẫn nhau. Cam kết này cũng được phản ánh trong tính toàn vẹn trong tất cả các dự án và hoạt động của chúng tôi, đảm bảo chất lượng dịch vụ tốt nhất và theo kịp tiến độ thực hiện."
+    }
+  },
+  "hrTitle": "Đội ngũ nhân sự",
+  "hrContent1": "Đội ngũ nhân sự của BATTECH là những con người giàu kinh nghiệm về công nghệ. Mỗi một thành viên đều có kiến thức và lĩnh vực công nghệ khác nhau, khi phát triển phần mềm đều đưa ra được những ý tưởng, lập luận chặt chẽ. Với tinh thần đoàn kêt, ham học hỏi cùng với sự nhiệt tình, có trách nhiệm trong công việc. Đội ngũ BATTECH luôn lắng nghe ý kiến đóng góp của khách hàng để ngày nâng cao chất lượng của sản phẩm phù hợp với nhu cầu người dùng.",
+  "hrContent2": "Nhân sự BATTECH luôn sẵn lòng phục vụ, lắng nghe, thấu hiểu.",
+  "carousel": {
+    "1": "Ý tưởng khi nhìn vào thực tế",
+    "2": "Thành lập đội ngũ nhân sự",
+    "3": "Nghiên cứu công nghệ",
+    "4": "Phát triển sản phẩm",
+    "5": "Triển khai thực tế"
+  },
+  "roadmap": "Lộ trình"
+}

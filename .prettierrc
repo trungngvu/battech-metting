@@ -1,0 +1,21 @@
+{
+  "semi": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "printWidth": 120,
+  "endOfLine": "auto",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "trailingComma": "es5",
+  "bracketSameLine": false,
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "importOrderCaseInsensitive": true,
+  "importOrderParserPlugins": ["jsx", "typescript", "decorators-legacy"],
+  "importOrder": [
+    "@fontsource",
+    "<THIRD_PARTY_MODULES>",
+    "^(component|pages|hooks|lib|data|store|types|utils)",
+    "^[./]"
+  ]
+}
